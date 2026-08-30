@@ -115,9 +115,8 @@ DataScience-Python-Internship/
 │   └── Week3_DataScience.ipynb
 └── Week4-DataScience/
 |   ├── README.md
-|   ├── IPLanalysis.ipynb
-|   └── IPL_Analysis_Report.pdf
-|___Internship_Analysis_Report.pdf
+|   ├── IPLanalysis.ipynb   
+|__ Internship_Analysis_Report.pdf
 ```
 
 ## ▶️ How to Run
